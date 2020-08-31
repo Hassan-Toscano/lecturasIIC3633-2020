@@ -1,4 +1,4 @@
-Critica Artículo: Performance of recommender algorithms on Top-N recommendation tasks
+Crítica Artículo: Performance of recommender algorithms on Top-N recommendation tasks
 
 Resumen: En la práctica, los sistemas comerciales sugieren algunos elementos específicos que probablemente
 son más atractivos para el usuario a lo que se denomina Recomendación Top-N, mientras que los valores de
