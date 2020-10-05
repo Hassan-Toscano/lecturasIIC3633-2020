@@ -1,4 +1,5 @@
 Artículo: [Pu, 2011] A user-centric evaluation framework for recommender systems
+
 Nombre: Jasiel Hassan Toscano Martinez
 
 Resumen: En este trabajo se presentan un modelo de evaluación denominado ResQue usado para medir actitudes subjetivas basado en la experiencia del usuario, es decir, el modelo ResQue tiene como objetivo evaluar las cualidades percibidas de los sistemas de recomendación para identificar las cualidades esenciales, que motivan a los usuarios utilizar estos sistemas. Este modelo está conformado por 13 constructos y 60 preguntas clasificadas en cuatro categorías, como cualidades percibidas del sistema, creencias de los usuarios resultado de las cualidades, sus actitudes subjetivas y sus intenciones de comportamiento. 
