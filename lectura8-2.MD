@@ -1,1 +1,12 @@
-Prueba 2
+Artículo: See what you want to See: Visual user-driven approach for hybrid recommendation
+
+Nombre: Jasiel Hassan Toscano Martinez
+
+Resumen: En este trabajo se presentan un interfaz visual controlable por el usuario para un sistema de recomendación hibrida denominada SetFusion. Esta interfaz permite fusionar diferentes métodos de recomendación e inspeccionar resultados a través de una visualización interactiva en función de los diagramas de Venn. En este trabajo se abordó el aspecto de la controlabilidad del usuario que es uno de los aspectos de la Interacción Humano-Computadora menos estudiados en sistemas recomendadores. En particular, este trabajo se centró en la controlabilidad del usuario en sistemas de recomendación híbrida para conferencias.
+
+Comentario: En este trabajo se utilizó Conference Navigator 3 que es sistema web de apoyo para asistentes de la conferencia. Este sistema utiliza diferentes fuentes de información para generar las recomendaciones de conversación, como el contenido de la conversación, las etiquetas del usuario y las conexiones sociales de los usuarios. La interfaz está compuesta por una lista de recomendaciones, el reproductor de controles deslizantes y el diagrama de Venn. Los algoritmos utilizados para generar la lista de recomendaciones se fundamentaron en la recomendación basada en contenido, recomendación de popularidad basada en autor y popularidad de marcadores. La interfaz fue evaluada con base en dos estudios de campo. En primer lugar, un estudio de campo en la conferencia CSCW2013 que permitió medir la respuesta del usuario hacia la interfaz interactiva con la interfaz de recomendación no controlable. En segundo lugar, se realizó un estudio de campo más natural en la conferencia UMAP2013.
+
+Crítica: Las principales aportaciones se fundamentaron en la visualización interactiva de los resultados mediante diagramas de Venn y abordar aspecto de la controlabilidad del usuario en función de los controles deslizantes que permitieron la fusión de los métodos de recomendación. La evaluación muestra que se obtuvieron mejores resultados en un estudio de campo más natural. A partir del estudio de este trabajo, sería interesante probar otros contextos de recomendación, no solamente limitarse a la recomendación de conversación. También seria de utilidad abordar otros aspectos de la Interacción Humano-Computadora pocos explorados en los sistemas de recomendación.
+
+Referencia: Parra D., Brusilovsky P. and Trattner C., “See what you want to See: Visual user-driven approach for hybrid rec
+ommendation”, Proceedings of the 19th international conference on intelligent user Interfaces, pp. 235-240, 2014. DOI: 10.11 45/2557500.2557542
