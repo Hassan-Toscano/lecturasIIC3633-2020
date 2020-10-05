@@ -1,1 +1,12 @@
-Prueba 1
+Artículo: [Pu, 2011] A user-centric evaluation framework for recommender systems
+Nombre: Jasiel Hassan Toscano Martinez
+
+Resumen: En este trabajo se presentan un modelo de evaluación denominado ResQue usado para medir actitudes subjetivas basado en la experiencia del usuario, es decir, el modelo ResQue tiene como objetivo evaluar las cualidades percibidas de los sistemas de recomendación para identificar las cualidades esenciales, que motivan a los usuarios utilizar estos sistemas. Este modelo está conformado por 13 constructos y 60 preguntas clasificadas en cuatro categorías, como cualidades percibidas del sistema, creencias de los usuarios resultado de las cualidades, sus actitudes subjetivas y sus intenciones de comportamiento. 
+
+Comentario: Las cualidades percibidas se basan en el aspecto funcional e informativo de un sistema de recomendación. Este constructo se concentra en tres dimensiones esenciales, tales como la calidad de los elementos recomendados y la adecuación de la interacción e interfaz. El segundo constructo está en función en cómo las cualidades percibidas influyen en las creencias del usuario con respecto a la facilidad de uso, la utilidad percibida, el control y la transparencia del sistema de recomendación. El tercer constructo consiste en las actitudes subjetivas del usuario que se adquieren hacia un sistema de recomendación. Estas actitudes pueden influir en la intención del comportamiento. En este constructo se evalúa la satisfacción general, la confidencia y la confianza. Por último, el constructo de las intenciones de comportamiento se basa en cómo un sistema de recomendación puede influir en la decisión de los usuarios para utilizar un sistema y en cómo influye en la decisión de consumir un elemento.
+
+Crítica: En este trabajo se propone un marco de evaluación para medir cualidades percibidas e intenciones de comportamiento de los usuarios hacia un sistema de recomendación. La motivación se basó en comprender que factores que influyen en el uso de los sistemas de recomendación. En este trabajo se muestra un cuestionario de evaluación subjetiva compuesto 60 preguntas, sin embargo, en la práctica se observa complicado realizar una evaluación rápida través de la utilización de este cuestionario.
+Por último, se presentan una comparación de los constructos que se utilizaron en este modelo y constructos utilizados en dos modelos de evaluación de usabilidad denominados modelo de aceptación de tecnológica TAM e Inventario de medición de usabilidad de software SUMI.
+
+Referencia: Pu P. and Chen A., “A user-centric evaluation framework for recommender systems”, RecSys'11 Proceedings of the fifth ACM conference on recommender systems, pp. 157-164, 2011. DOI: 10.1145/2043932.2043962
+
