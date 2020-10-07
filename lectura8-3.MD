@@ -1,0 +1,10 @@
+Artículo: Inspectability and control in social recommenders Nombre: Jasiel Hassan Toscano Martínez
+
+Resumen: En este trabajo se establece que existían pocas investigaciones abordando los efectos de la inspección y el control en la experiencia de los usuarios con los sistemas de recomendación social. Por tal motivo, en este trabajo se muestra un experimento de usuario en línea con 267 participantes usando una versión modificada del sistema recomendador de música de Facebook denominado Tasteweights, que permite a los usuarios manipular de una manera independiente el nivel de inspección y control.
+
+Comentario: El sistema recomendador proporciona a los usuarios una manera para inspeccionar y controlar un gráfico de recomendación, en donde se presentan los elementos del usuario, de sus amigos y recomendaciones. La inspección y control se divide en dos etapas. En la primera se asigna a los usuarios una de las tres condiciones de control que consisten en un control de elementos, en un control de amigos o un sin control. En la segunda 
+se asigna una de dos condiciones que se basan en solo mostrar la lista o el gráfico completo de recomendaciones. 
+
+Crítica: En el estudio de usuario participaron 267 participantes que en mi opinión son escasos. Estas personas respondieron un cuestionario sobre sus características personales, que pueden cambiar según el estado de ánimo. Posteriormente completaron las etapas de control e inspección. Por último, respondieron un tedioso cuestionario en relación a la experiencia. El estudio presenta resultados positivos en la experiencia del usuario a consecuencia a la facilidad de comprensión del sistema, sin enbargo, la confianza de los usuarios es un factor importante para el buen funcionamiento del sistema de recomendación social. Además, otro factor importante que puede influir en la satisfacción del usuario esta basado en la experiencia musical de los usuarios.
+
+Referencia: Knijnenburg B., Bostandjiev S., O´donovan J. and Kobsa A., “Inspectability and control in social recommender”, RecSys'12 Proceedings of the sixth ACM conference on recommender systems, pp. 43-50, 2011. DOI: 10.1145/2365952.2365 966
