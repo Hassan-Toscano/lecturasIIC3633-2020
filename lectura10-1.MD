@@ -1,4 +1,5 @@
 Artículo (Parte 1-2): Deep Learning based Recommender system: A survey and new perspectives
+
 Nombre: Jasiel Hassan Toscano Martínez (Incluyendo Sección 3.4)
 
 Resumen: En la actualidad, los sistemas de recomendación basados en el aprendizaje profundo han cobrado un gran interés para la comunidad científica debido a su capacidad para superar obstáculos a los que se enfrentan los modelos convencionales y a su capacidad para lograr una alta calidad en la recomendación. El aprendizaje profundo es considerado como un subcampo del aprendizaje automático, que realiza el aprendizaje de múltiples niveles de representación y abstracciones. En este trabajo se presenta una revisión del estado del arte con respecto a los sistemas de recomendación basados en el aprendizaje profundo.
