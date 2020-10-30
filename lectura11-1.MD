@@ -1,1 +1,28 @@
+Artículo (Parte 2-2): Deep Learning based Recommender system: A survey and new perspectives
+Nombre: Jasiel Hassan Toscano Martínez (Sección 3.5 – Sección 5. Conclusión)
 
+Resumen: En esta entrega se continúa con la revisión del estado del arte con respecto a los sistemas de recomendación basados 
+en las técnicas de aprendizaje profundo. Las técnicas de aprendizaje profundo pendientes por analizar son: las redes neuronales 
+recurrentes, la máquina de Boltzman restringida, el modelo de atención, la distribución autorregresiva neuronal, el aprendizaje 
+por refuerzo profundo, la red de adversarios y modelos híbridos profundos. Las nuevas líneas de investigación que se derivan
+son: aprendizaje representación conjunta, recomendación explicable con aprendizaje profundo, recomendación profundizada,
+razonamiento de máquina, recomendación dominio cruzado con redes neuronales profundas, aprendizaje profundo multitarea,
+escalabilidad de las redes neuronales profundadas y una evaluación más unificada y rigurosa
+
+Comentario: Las redes neuronales recurrentes son adecuadas en los sistemas de recomendación para realizar el procesamiento
+secuencial de la información. El modelo de atención se utiliza en la recomendación para filtrar características no informativas.
+La máquina Boltzman restringida es el primer modelo de recomendación basado en redes neuronales, sin embargo, la máquina
+no es factible de utilizar por lo que se propuso una nueva alternativa basada en la distribución autorregresiva neuronal. La red
+de adversarios es usada en la recomendación para recuperar la información, Por último, la flexibilidad de las redes neuronales
+profundas permite integrar diversos bloques de construcción neuronales para de esta manera formar modelos más sofisticados.
+
+Crítica: En la actualidad, se observa en el estudio del estado de la literatura el desarrollo de sistemas de recomendación basados
+en diversas técnicas de aprendizaje profundo, que han establecido una base sólida para generar nuevas líneas de investigación.
+Estas técnicas de aprendizaje se utilizan en los sistemas de recomendación para enfrentar diferentes problemas, aprovechando
+propiedades que caracterizan a cada una de estas técnicas, sin embargo, a pesar de los avances existe aún trabajo por realizar.
+Las nuevas líneas de investigación recomiendan los siguientes campos de acción: las recomendaciones precisas aprovechando
+la información auxiliar, las predicciones explicables comprendiendo factores, pesos y activaciones, el razonamiento máquina
+en relación al lenguaje natural o entrada visual, la integración de los diversos dominios, el aprendizaje multitarea en un marco
+neuronal profundo, la escalabilidad de las redes neuronales profundad y la unificación de las líneas base y conjunto de datos.
+
+Referencia: Zhang S., Yao L., Sun A. and Tay Y., Deep learning based recommender system: A survey and new perspectives, ACM Computing Survey, Vol, 52, No. 01, pp. 1-38, 2020. DOI: 10.1145/3285029
